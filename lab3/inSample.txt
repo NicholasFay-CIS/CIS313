@@ -1,0 +1,3 @@
+isEmpty
+insert 2
+isEmpty
